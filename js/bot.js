@@ -37,3 +37,8 @@ function main() {
 
 
 main()
+
+
+
+<span data-url="/b24application/?action=PARTNER_TAKE_APPLICATION&amp;applicationId=524787&amp;portalId=c5b4dccba0e376673582620dc45fb64e&amp;partnerId=5395699&amp;auth=8fa9792086016312281b68cc827c1ca8" class="partner-application-b24-list-item-submit-link js-partner-submit-application">
+						Взять заявку					</span>
